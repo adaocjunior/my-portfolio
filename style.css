@@ -53,7 +53,7 @@ footer{
 #sun{
     position: absolute;
     right: 30%;
-    width: 7%;
+    width: 8%;
 }
 
 #moon{
@@ -112,24 +112,6 @@ footer{
     border-radius: 50%;
     box-shadow: 0px 5px #000000;
 }
-#softSkills{
-    margin-top: 5%;
-}
-.softSkillsContainer{
-    display: flex;
-    flex-direction: row;
-    margin-left: 27%;
-    margin-top: 5%;
-    margin-bottom: 5%;
-}
-.softSkillsImages{
-    width: 10%;
-}
-.softSkillsText{
-    text-align: start;
-    align-items: flex-start;
-}
-
 
 h2{
     color: #FF8600;
