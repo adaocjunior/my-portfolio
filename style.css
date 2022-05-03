@@ -133,3 +133,40 @@ p{
 .softSkillsParagraph{
     width: 50%;
 }
+#projects{
+    display: flex;
+    flex-direction: row;
+    
+}
+.projectContainer{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 6%;
+    margin-top: 6%;
+}
+.projectImage{
+    width: 100%;
+}
+.projectName{
+    color: #ffe000;
+    font-size: 35px;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+#copyrightClaim{
+    font-size: 18px;
+}
+
+#github{
+    margin-right: 1%;
+}
+#linkedin{
+    margin-left: 1%;
+}
